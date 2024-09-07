@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamjh15
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning html , css and js
 - 📫 How to reach me shubhamjh175@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact : don't talk just code
