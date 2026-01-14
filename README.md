@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjh15&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjh15" /> </p>
 
-- 🔭 I’m currently working on [Banner Joy](https://www.linkedin.com/feed/update/urn:li:activity:7406474212015529984/)
+- Building my saas @Orlume
 
 - 🌱 I’m currently learning **Backend and three.js**
 
