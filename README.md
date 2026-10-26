@@ -1,11 +1,98 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1> <h3 align="center">I ship fast</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjh15&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjh15" /> <br><br>
-# 💫 About Me:
-Building my saas @Orlume<br><br>🌱 I’m currently learning Backend and three.js<br><br>📫 How to reach me shuhamjh175@gmail.com
+<div align="center">
 
+<img src="assets/header.svg" alt="Hi, I'm Shubham — I ship fast" width="100%" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham175/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@shubhamjh175) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/shubham40662001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamjh175@gmail.com) 
+<a href="https://www.linkedin.com/in/shubham175/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/shubham40662001"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://medium.com/@shubhamjh175"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="mailto:shubhamjh175@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=shubhamjh15&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=plastic&logo=vultr) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=plastic&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+</div>
 
+<br/>
+
+<img src="assets/title-about.svg" width="100%" />
+
+<img src="assets/terminal.svg" alt="whoami — full-stack developer building Orlume" width="100%" />
+
+<br/>
+
+<img src="assets/title-stack.svg" width="100%" />
+
+<table>
+<tr>
+<td align="center" width="140"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp,html&theme=dark&perline=10" /></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,svelte,redux,tailwind,bootstrap,threejs&theme=dark&perline=10" /></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,prisma,npm&theme=dark&perline=10" /></td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase&theme=dark&perline=10" /></td>
+</tr>
+<tr>
+<td align="center"><b>Cloud &amp; DevOps</b></td>
+<td><img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,gcp,azure&theme=dark&perline=10" /></td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,postman,figma,notion,wordpress&theme=dark&perline=10" /></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="assets/title-projects.svg" width="100%" />
+
+<div align="center">
+
+<a href="https://github.com/shubhamjh15/blood-donor-network"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamjh15&repo=blood-donor-network&hide_border=true&bg_color=0d0b1f&title_color=c4b5fd&icon_color=a5f3fc&text_color=cbd5e1" /></a>
+<a href="https://github.com/shubhamjh15/Spline-3d-Website"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamjh15&repo=Spline-3d-Website&hide_border=true&bg_color=0d0b1f&title_color=c4b5fd&icon_color=a5f3fc&text_color=cbd5e1" /></a>
+<a href="https://github.com/shubhamjh15/designer-website-e"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamjh15&repo=designer-website-e&hide_border=true&bg_color=0d0b1f&title_color=c4b5fd&icon_color=a5f3fc&text_color=cbd5e1" /></a>
+<a href="https://github.com/shubhamjh15/Random-quote-generator"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamjh15&repo=Random-quote-generator&hide_border=true&bg_color=0d0b1f&title_color=c4b5fd&icon_color=a5f3fc&text_color=cbd5e1" /></a>
+
+</div>
+
+> 🩸 **Latest — [Bloodline](https://github.com/shubhamjh15/blood-donor-network):** a real-time, location-based blood donor network. Next.js 15, MongoDB geo-queries, React Three Fiber, live maps & notifications.
+
+<br/>
+
+<img src="assets/title-stats.svg" width="100%" />
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhamjh15&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0b1f&title_color=c4b5fd&icon_color=a5f3fc&text_color=cbd5e1&ring_color=8b5cf6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamjh15&layout=compact&langs_count=8&hide_border=true&bg_color=0d0b1f&title_color=c4b5fd&text_color=cbd5e1" />
+
+<img width="100%" src="https://streak-stats.demolab.com?user=shubhamjh15&hide_border=true&background=0D0B1F&ring=8B5CF6&fire=F0ABFC&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=A5F3FC&sideLabels=C4B5FD&dates=94A3B8&stroke=2E2A5A" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamjh15&bg_color=0d0b1f&color=c4b5fd&line=8b5cf6&point=a5f3fc&area=true&area_color=8b5cf6&hide_border=true&radius=12" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamjh15/shubhamjh15/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamjh15/shubhamjh15/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/shubhamjh15/shubhamjh15/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+<img src="assets/title-connect.svg" width="100%" />
+
+<div align="center">
+
+**Got an idea, a SaaS, or something wild to build? Let's talk.**
+
+<a href="mailto:shubhamjh175@gmail.com"><img src="https://img.shields.io/badge/Say%20hi-shubhamjh175%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="assets/footer.svg" width="100%" />
+
+</div>

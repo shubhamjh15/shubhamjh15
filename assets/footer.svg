@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" fill="none">
+  <defs>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ec4899"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  </defs>
+  <style>
+    .wave { animation: wave 8s linear infinite; }
+    .wave.b { animation-duration: 12s; animation-direction: reverse; }
+    @keyframes wave { to { transform: translateX(-600px); } }
+    text { font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  </style>
+  <g opacity="0.55" class="wave b"><path d="M0 110 Q150 70 300 110 T600 110 T900 110 T1200 110 T1500 110 T1800 110 V160 H0Z" fill="url(#w2)"/></g>
+  <g opacity="0.85" class="wave"><path d="M0 120 Q150 150 300 120 T600 120 T900 120 T1200 120 T1500 120 T1800 120 V160 H0Z" fill="url(#w1)"/></g>
+  <text x="600" y="60" fill="#c4b5fd" font-size="20" font-weight="600" text-anchor="middle">Thanks for dropping by — keep shipping ✨</text>
+</svg>
